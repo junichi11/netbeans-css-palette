@@ -2,5 +2,5 @@ Manifest-Version: 1.0
 OpenIDE-Module: org.netbeans.modules.css.palette
 OpenIDE-Module-Layer: org/netbeans/modules/css/palette/layer.xml
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/css/palette/Bundle.properties
-OpenIDE-Module-Specification-Version: 0.1.1
+OpenIDE-Module-Specification-Version: 0.2.0
 
